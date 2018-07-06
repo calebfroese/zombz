@@ -1,0 +1,12 @@
+{
+  "name": "zombz",
+  "scripts": {
+    "start": "./node_modules/.bin/lite-server ."
+  },
+  "dependencies": {
+    "browser-sync": "^2.24.5"
+  },
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  }
+}
