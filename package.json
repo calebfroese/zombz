@@ -1,12 +1,12 @@
 {
   "name": "zombz",
   "scripts": {
-    "start": "./node_modules/.bin/http-server ."
+    "start": "./node_modules/.bin/lite-server ."
   },
   "dependencies": {
     "browser-sync": "^2.24.5"
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "lite-server": "2.4.0"
   }
 }
